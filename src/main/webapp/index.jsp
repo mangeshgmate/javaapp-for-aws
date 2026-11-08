@@ -19,10 +19,7 @@
                         <td>Username</td>
                         <td><input type="text" name="userName" value="" /></td>
                     </tr>
-                    <tr>
-                        <td>Password</td>
-                        <td><input type="password" name="password" value="" /></td>
-                    </tr>
+                 
                     <tr>
                         <td><input type="submit" value="Login" /></td>
                         <td><input type="reset" value="Reset" /></td>
